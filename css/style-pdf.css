@@ -1,0 +1,33 @@
+h1 {
+	text-align:center;
+    font-size:33pt
+}
+table {
+	border-collapse:collapse;
+	table-layout:fixed;
+	width:100%;
+}
+td {
+	vertical-align:middle;
+	padding-top:20pt;
+	height:50pt;
+	text-weight:bold;
+}
+td.separation {
+	vertical-align:top;
+	height:20pt;
+}
+td p {
+	vertical-align:middle;
+	height:40pt;
+	line-height;40pt;
+}
+.image {
+    padding-top:5px;
+    padding-right:10px;
+}
+a {
+	color:black;
+	text-decoration:none;
+	text-weight:bold;
+}

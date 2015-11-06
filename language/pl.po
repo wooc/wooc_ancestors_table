@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: module.php:69
+msgid "Wooc Ancestors Table"
+msgstr "Wooc Tablica przodków"
+
+#: module.php:73
+msgid "Ancestors table"
+msgstr "Tablica przodków"
+
+#: module.php:78
+msgid "A tab showing the table of individual’s ancestors."
+msgstr "Zakładka pokazująca tablicę przodków danej osoby."
+
+#: src/TreeChartClass.php:183
+msgid "Generate a PDF"
+msgstr "Generuj PDF"
+
+#: src/TreeChartClass.php:187
+msgid "5 generations - A4"
+msgstr "5 pokoleń - A4"
+
+#: src/TreeChartClass.php:188
+msgid "5 generations - A3"
+msgstr "5 pokoleń - A3"
+
+#: src/TreeChartClass.php:189
+msgid "6 generations - A3"
+msgstr "6 pokoleń - A3"
+
+#: src/TreeChartClass.php:190
+msgid "7 generations - A3"
+msgstr "7  pokoleń - A3"
+
+#: src/TreeChartClass.php:194
+msgid "Creating the PDF file"
+msgstr "Tworzenie pliku PDF"
+
+#: src/TreeChartClass.php:197 src/TreeChartClass.php:219
+#, php-format
+msgid "Ancestors table of %s"
+msgstr "Tablica przodków - %s"

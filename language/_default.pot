@@ -1,0 +1,56 @@
+"Project-Id-Version: wooc_ancestors_table\n"
+"POT-Creation-Date: 2015-08-23 13:58+0200\n"
+"PO-Revision-Date: 2015-08-23 13:50+0200\n"
+"Last-Translator: \n"
+"Language-Team: Łukasz Wileński\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: translate;translateContext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: module.php:69
+msgid "Wooc Ancestors Table"
+msgstr ""
+
+#: module.php:73
+msgid "Ancestors table"
+msgstr ""
+
+#: module.php:78
+msgid "A tab showing the table of individual’s ancestors."
+msgstr ""
+
+#: src/TreeChartClass.php:183
+msgid "Generate a PDF"
+msgstr ""
+
+#: src/TreeChartClass.php:187
+msgid "5 generations - A4"
+msgstr ""
+
+#: src/TreeChartClass.php:188
+msgid "5 generations - A3"
+msgstr ""
+
+#: src/TreeChartClass.php:189
+msgid "6 generations - A3"
+msgstr ""
+
+#: src/TreeChartClass.php:190
+msgid "7 generations - A3"
+msgstr ""
+
+#: src/TreeChartClass.php:194
+msgid "Creating the PDF file"
+msgstr ""
+
+#: src/TreeChartClass.php:197 src/TreeChartClass.php:219
+#, php-format
+msgid "Ancestors table of %s"
+msgstr ""
